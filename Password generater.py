@@ -1,8 +1,8 @@
 import random
 lower = 'abcdefghijklmnopqrstuvwxyz'
-upper = ' ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 symbol = '.-@!#$%^&*'
-number = '123456778'
+number = '0123456789'
 
 all = lower + upper + number + symbol
 length = 10 
